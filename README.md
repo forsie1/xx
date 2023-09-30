@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,6 +6,5 @@
     <title>Document</title>
 </head>
 <body>
-    <h1><center>В асортименті:</h1></center>
-</body>
-</html>
+    <h1><center>В асортименті:</center>
+
